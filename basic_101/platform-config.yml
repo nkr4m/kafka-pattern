@@ -1,0 +1,8 @@
+# platform-config.yml
+conduktor:
+  database:
+    url: "jdbc:postgresql://postgresql:5432/conduktor-console"
+    username: "conduktor"
+    password: "change_me"
+  license:
+    type: "free" # Or "trial" if you have a key
